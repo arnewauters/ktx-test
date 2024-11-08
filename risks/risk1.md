@@ -1,7 +1,8 @@
 ---
 itemId: my-first-risk
 itemType: Risk
-harm: Some Harm
+initialOccurrenceProbabilityText: Low
+initialOccurrenceProbability: Low
 ---
 # My first risk
 
@@ -15,6 +16,16 @@ Some risk description text
 
 Some Hazard
 
+### Sequence of events
+
+- Baby wakes up
+- Baby tries to climb out of crib
+- Clip is not fastened
+
 ### Hazardous situation
 
 Description of the hazardous situation
+
+### Harm
+
+Minor injury
