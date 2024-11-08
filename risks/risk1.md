@@ -1,8 +1,6 @@
 ---
 itemId: my-first-risk
 itemType: Risk
-initialOccurrenceProbabilityText: Low
-initialOccurrenceProbability: Low
 ---
 # My first risk
 
